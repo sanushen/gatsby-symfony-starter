@@ -2,6 +2,8 @@
 .cache
 .idea
 webpack.config.js
+
+public/*
 !public/.gitkeep
 
 ###> symfony/framework-bundle ###
