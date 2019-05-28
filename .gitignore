@@ -2,10 +2,8 @@
 .cache
 .idea
 webpack.config.js
+!public/.gitkeep
 
-
-
-public/*
 ###> symfony/framework-bundle ###
 /.env.local
 /.env.local.php
