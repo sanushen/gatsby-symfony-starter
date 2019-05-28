@@ -5,7 +5,7 @@ webpack.config.js
 
 
 
-/public/*
+public/*
 ###> symfony/framework-bundle ###
 /.env.local
 /.env.local.php
