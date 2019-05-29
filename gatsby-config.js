@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Symfony Starter`,
-    description: `Gatsby Symfony Starter`,
-    author: `sanushen@gmail.com`,
+    title: `The Code Kitchen`,
+    description: `Designed - Developed - Deployed`,
+    author: `Sanushen Govender`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
