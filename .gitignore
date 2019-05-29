@@ -3,6 +3,7 @@
 .idea
 public/*
 !public/.gitkeep
+.web-server-pid
 
 /.env.local
 /.env.local.php
