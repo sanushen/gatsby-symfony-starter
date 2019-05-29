@@ -1,8 +1,10 @@
-Backend Assets:
-thecodekitchen/assets
+Symfony 4 Skeleton with GatsbyJS frontend <br>
 
-Frontend:
-Assets - src/FrontEnd/assets
-Gatsby Components - src/FrontEnd/components
-Images - src/FrontEnd/images
-pages - src/pages
+composer install <br>
+npm install <br>
+yarn install <br>
+yarn run encore dev <br> 
+
+To run Symfony: php bin/console server:start
+
+To run Gatsby: gatsby develop
